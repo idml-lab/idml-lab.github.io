@@ -1,7 +1,7 @@
 // js.js 
 
 // stylesheet
-document.write('<link href="./rsrc/jlcss.css" rel=stylesheet type=text/css>');
+document.write('<link href="./jlcss.css" rel=stylesheet type=text/css>');
 
 // google fonts
 //document.write('<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=ABeeZee">');
